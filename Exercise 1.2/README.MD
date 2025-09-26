@@ -48,3 +48,8 @@ Screenshots are stored in the `screenshots/` folder.
 
 ### Step 6 — Script run in VS Code (optional)
 ![Step 6 – run all_recipes.py](screenshots/step-6-run-script.png)
+
+## Learning Journal
+
+See my reflections and notes for this exercise:
+- [learning-journal.md](../learning-journal.md)
